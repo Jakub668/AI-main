@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# APK
+*.apk
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
