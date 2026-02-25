@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacja AI</string>
+    <string name="send_button">Wyślij</string>
+    <string name="language_label">Język</string>
+    <string name="open_file">Otwórz plik</string>
+    <string name="settings">Ustawienia</string>
+    <string name="generate_image">Generuj obraz</string>
+</resources>
